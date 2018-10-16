@@ -1,4 +1,4 @@
-###Tennis Analytics - Improving Performance of Emerging Players
+<h2><b>Tennis Analytics - Improving Performance of Emerging Players</b></h2>
 
 (Please note: I cannot upload the dataset files for this project as the data was obtained from a confidential client)
 
